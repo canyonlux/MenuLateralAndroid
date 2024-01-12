@@ -22,4 +22,9 @@
         android:name="com.example.mymail.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_slideshow2"
+        android:name="com.example.mymail.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_spam" />
 </navigation>
